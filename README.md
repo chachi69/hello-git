@@ -1,3 +1,3 @@
 # hello-git
 
-1. Make changes at master branch level.
+Changes made in staging branch.
