@@ -1,3 +1,3 @@
 # hello-git
 
-Pass #2 at branching, committing, and merging.
+1. Make changes at master branch level.
